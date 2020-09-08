@@ -1,0 +1,3 @@
+language: ti-go
+fprocess: ./main
+handler_folder: /
